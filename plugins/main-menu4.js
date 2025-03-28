@@ -1,4 +1,4 @@
-import { createHash } from 'crypto'
+/* import { createHash } from 'crypto'
 import PhoneNumber from 'awesome-phonenumber'
 import { canLevelUp, xpRange } from '../lib/levelling.js'
 import fetch from 'node-fetch'
@@ -108,19 +108,35 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ • *why*
 ╰─┬─★─☆─♪♪─❍
 ╭─┴❍「 *TEXTPRO MENU* 」❍
-◈ • *advancedglow*
-◈ • *beach*
-◈ • *bpstyle*
-◈ • *cartoon*
-◈ • *clouds*
+◈ • *3dsilver*
+◈ • *balon*
+◈ • *blackpink*
+◈ • *color*
+◈ • *circle*
+◈ • *cubic*
+◈ • *foggy*
 ◈ • *galaxy*
-◈ • *glossy*
-◈ • *lighteffect*
+◈ • *galaxy2*
+◈ • *gaming*
+◈ • *gold*
+◈ • *golden*
+◈ • *gsilver*
+◈ • *hacker*
+◈ • *jewel*
 ◈ • *logomaker*
+◈ • *matrix*
+◈ • *metal*
+◈ • *metallic*
+◈ • *mascot*
+◈ • *nigeria*
 ◈ • *papercut*
-◈ • *pixelglitch*
-◈ • *texteffect*
-◈ • *writetext*
+◈ • *sand*
+◈ • *splat*
+◈ • *snake*
+◈ • *star*
+◈ • *typo*
+◈ • *wgalaxy*
+◈ • *wings*
 ╰─┬─★─☆─♪♪─❍
 ╭─┴❍「 *IMAGEN MENU* 」❍
 ◈ • *animefy*
@@ -741,3 +757,4 @@ const quotes = [
   "I'm not saying I'm Spider-Man. I'm just saying no one has ever seen me and Spider-Man in the same room together.",
   "I'm not saying I'm a superhero. I'm just saying no one has ever seen me and a superhero in the same room together.",
 ]
+*/
